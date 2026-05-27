@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026052718265483G4UT</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260527182654IZORLB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MONTAJE, CONEXIONADO DE AUTOMATISMOS INDUSTRIALES Y PRUEBAS DE FUNCIONAMIENTO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Técnico en Mantenimiento Electromecánico (DUAL)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>D. José Castaño Jiménez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Unidad didáctica 7 - Montaje, conexionado de automatismos industriales y pruebas de funcionamiento</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779899054343</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>atkinson-hyperlegible-next</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw0-rx8q6mell</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Montaje, conexionado de automatismos industriales y pruebas de funcionamiento</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Montaje, conexionado de automatismos industriales y pruebas de funcionamiento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Montaje, conexionado de automatismos industriales y pruebas de funcionamiento</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Montaje, conexionado de automatismos industriales y pruebas de funcionamiento</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw0-rx8q6mell</odePageId>
+      <odeBlockId>block-1779291269776-2902pkhaq</odeBlockId>
+      <blockName>UNIDAD DIDÁCTICA : Montaje, conexionado de automatismos industriales y pruebas de funcionamiento</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw0-rx8q6mell</odePageId>
+          <odeBlockId>block-1779291269776-2902pkhaq</odeBlockId>
+          <odeIdeviceId>idevice-1779291269774-0oxk3ggvq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2 style="text-align: left;"><strong>OBJETIVOS</strong></h2>
+<p>·         Interpretar y analizar los esquemas para el arranque de motores mediante lógica cableada</p>
+<p>·         Identificar los métodos de arranques indirectos e inversión de giro de motore eléctricos.</p>
+<p>·         Interpretar y analizar esquemas de automatismos neumáticos y electroneumáticos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779291269774-0oxk3ggvq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2 style=\"text-align: left;\"><strong>OBJETIVOS</strong></h2>\n<p>·         Interpretar y analizar los esquemas para el arranque de motores mediante lógica cableada</p>\n<p>·         Identificar los métodos de arranques indirectos e inversión de giro de motore eléctricos.</p>\n<p>·         Interpretar y analizar esquemas de automatismos neumáticos y electroneumáticos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw4-1rsx6ldro</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>1. Introducción y contextualización práctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción y contextualización práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Introducción y contextualización práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw4-1rsx6ldro</odePageId>
+      <odeBlockId>block-1779291632778-8gkh7zs7n</odeBlockId>
+      <blockName>1. Introducción y contextualización práctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw4-1rsx6ldro</odePageId>
+          <odeBlockId>block-1779291632778-8gkh7zs7n</odeBlockId>
+          <odeIdeviceId>idevice-1779291632777-0p0ghjfno</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta unidad vamos a detallar diferentes automatismos cableados y relacionados con el arranque de los motores eléctricos trifásicos principalmente, al tratarse de los receptores por excelencia de las instalaciones industriales. De igual manera mostrará el funcionamiento práctico del motor monofásico.</p>
+<div class="exe-fx exe-accordion">
+<h2>¿Sabías que...</h2>
+<p>en la industria real más del 80% de los procesos de movimiento mecánico dependen de un motor trifásico?  </p>
+</div>
+<p>El proceso de arranque del motor eléctrico se trata de una maniobra que no debemos tomar a la ligera, pues son causa de una serie de perturbaciones sobre la red eléctrica.  Es por ello que el reglamento electrotécnico BT establece una serie de prescripciones para su instalación. </p>
+<p>Se mostrarán además diferentes técnicas para el diseño de circuitos electroneumáticos teniendo en cuenta las características de la instalación y el proceso o máquina.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779291632777-0p0ghjfno","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta unidad vamos a detallar diferentes automatismos cableados y relacionados con el arranque de los motores eléctricos trifásicos principalmente, al tratarse de los receptores por excelencia de las instalaciones industriales. De igual manera mostrará el funcionamiento práctico del motor monofásico.</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>¿Sabías que...</h2>\n<p>en la industria real más del 80% de los procesos de movimiento mecánico dependen de un motor trifásico?  </p>\n</div>\n<p>El proceso de arranque del motor eléctrico se trata de una maniobra que no debemos tomar a la ligera, pues son causa de una serie de perturbaciones sobre la red eléctrica.  Es por ello que el reglamento electrotécnico BT establece una serie de prescripciones para su instalación. </p>\n<p>Se mostrarán además diferentes técnicas para el diseño de circuitos electroneumáticos teniendo en cuenta las características de la instalación y el proceso o máquina.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mpo9xvw4-1rsx6ldro</odePageId>
+          <odeBlockId>block-1779291632778-8gkh7zs7n</odeBlockId>
+          <odeIdeviceId>idevice-1779299992984-534xfd7fs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1 maquina de almendras.png" width="680" height="600" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Fig. 1. Máquina depositadora de almendras para confitería controlada por motor</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299992984-534xfd7fs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1 maquina de almendras.png\" width=\"680\" height=\"600\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 1. Máquina depositadora de almendras para confitería controlada por motor</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw6-bc58e6s9c</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>2. Automatismos cableados industriales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Automatismos cableados industriales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Automatismos cableados industriales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Automatismos cableados industriales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw6-bc58e6s9c</odePageId>
+      <odeBlockId>block-1779299745564-fiwpti912</odeBlockId>
+      <blockName>2. Automatismos cableados industriales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw6-bc58e6s9c</odePageId>
+          <odeBlockId>block-1779299745564-fiwpti912</odeBlockId>
+          <odeIdeviceId>idevice-1779299745563-plw5apgzv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En temas anteriores ya hemos mencionado la aplicación de los circuitos con lógica cableada para el control de procesos industriales automatizados mediante sistemas cableados, constituidos por un conjunto de aparatos eléctricos (contactores, temporizadores, relés, y elementos auxiliares). Estos elementos estaban unidos físicamente por medio de cables formando el circuito de mando.</p>
+<p>De la misma manera veíamos como los circuitos cableados son más sencillos y económicos, sin embargo, muchos más costosos de modificar una vez se ha realizado su implementación. De tal manera que, si se pretende una modificación del funcionamiento del sistema, será necesario rediseñar y volver a implementar todo, siendo necesario realizar muchos cambios en el sistema. En futuros temas estudiaremos como solventar estos inconvenientes mediante sistemas lógicos programables.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299745563-plw5apgzv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En temas anteriores ya hemos mencionado la aplicación de los circuitos con lógica cableada para el control de procesos industriales automatizados mediante sistemas cableados, constituidos por un conjunto de aparatos eléctricos (contactores, temporizadores, relés, y elementos auxiliares). Estos elementos estaban unidos físicamente por medio de cables formando el circuito de mando.</p>\n<p>De la misma manera veíamos como los circuitos cableados son más sencillos y económicos, sin embargo, muchos más costosos de modificar una vez se ha realizado su implementación. De tal manera que, si se pretende una modificación del funcionamiento del sistema, será necesario rediseñar y volver a implementar todo, siendo necesario realizar muchos cambios en el sistema. En futuros temas estudiaremos como solventar estos inconvenientes mediante sistemas lógicos programables.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw6-bc58e6s9c</odePageId>
+      <odeBlockId>block-1779300857646-iuswx7s5m</odeBlockId>
+      <blockName>2.1 Arranque
+de motores eléctricos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw6-bc58e6s9c</odePageId>
+          <odeBlockId>block-1779300857646-iuswx7s5m</odeBlockId>
+          <odeIdeviceId>idevice-1779300550072-mc20p2pc0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A la hora de diseñar el esquema de arranque de los motores eléctricos, no podemos olvidar que estos deben producir un par de arranque lo suficiente para vencer la resistencia que ofrecen los mecanismos propios y las cargas que vayan aplicadas al eje del motor.  Es por ello que los motores eléctricos trifásicos de inducción, en dicho momento de un arranque directo, presentan una sobreintensidad Ia (intensidad de arranque) considerable, del orden de 4 a 7 veces su In (Intensidad nominal) proporcionando ese elevado par de arranque.  </p>
+<p>Dicho pico de corriente en el arranque Ia puede provocar perturbaciones en la red y caídas de tensión que alcanzará afectar al funcionamiento correcto de otros receptores. Una vez el motor adquiere adquiriendo velocidad y alcanza su punto de funcionamiento nominal, esta sobreintensidad disminuye rápidamente.</p>
+<p>Tal como indica el REBT en la instrucción ITC-BT-47, en motores CA superiores a 0,75 kilovatios, deben estar provistos de sistemas adecuados que limiten dicha intensidad denominados arranques indirectos, de los cuales hablaremos a lo largo del presente tema empleando automatismos cableados y variadores de velocidad electrónicos. </p>
+<table border="1" style="width: 50.1828%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto; height: 198px;">
+<tbody>
+<tr style="height: 33px;">
+<td colspan="2" style="width: 100%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">Motores de corriente alterna</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">Potencia nominal del motor</td>
+<td style="width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">Ia/In max</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">De 0,75 kW a 1,5 kW</td>
+<td style="width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">4,5</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">De 1,5 kW a 5 kW</td>
+<td style="width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">3,0</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">De 5 kW a 15 kW</td>
+<td style="width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">2,0</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">P> 15kW</td>
+<td style="width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;">1,5</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><em>Tabla 1. Sobre intensidad máxima. RBT</em></p>
+<p style="text-align: center;"><em></em></p>
+<p style="text-align: center;"><em></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779300550072-mc20p2pc0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A la hora de diseñar el esquema de arranque de los motores eléctricos, no podemos olvidar que estos deben producir un par de arranque lo suficiente para vencer la resistencia que ofrecen los mecanismos propios y las cargas que vayan aplicadas al eje del motor.  Es por ello que los motores eléctricos trifásicos de inducción, en dicho momento de un arranque directo, presentan una sobreintensidad Ia (intensidad de arranque) considerable, del orden de 4 a 7 veces su In (Intensidad nominal) proporcionando ese elevado par de arranque.  </p>\n<p>Dicho pico de corriente en el arranque Ia puede provocar perturbaciones en la red y caídas de tensión que alcanzará afectar al funcionamiento correcto de otros receptores. Una vez el motor adquiere adquiriendo velocidad y alcanza su punto de funcionamiento nominal, esta sobreintensidad disminuye rápidamente.</p>\n<p>Tal como indica el REBT en la instrucción ITC-BT-47, en motores CA superiores a 0,75 kilovatios, deben estar provistos de sistemas adecuados que limiten dicha intensidad denominados arranques indirectos, de los cuales hablaremos a lo largo del presente tema empleando automatismos cableados y variadores de velocidad electrónicos. </p>\n<table border=\"1\" style=\"width: 50.1828%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto; height: 198px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td colspan=\"2\" style=\"width: 100%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">Motores de corriente alterna</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">Potencia nominal del motor</td>\n<td style=\"width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">Ia/In max</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">De 0,75 kW a 1,5 kW</td>\n<td style=\"width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">4,5</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">De 1,5 kW a 5 kW</td>\n<td style=\"width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">3,0</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">De 5 kW a 15 kW</td>\n<td style=\"width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">2,0</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.078%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">P> 15kW</td>\n<td style=\"width: 49.922%; text-align: center; height: 33px; border-color: #000000; border-style: solid;\">1,5</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><em>Tabla 1. Sobre intensidad máxima. RBT</em></p>\n<p style=\"text-align: center;\"><em></em></p>\n<p style=\"text-align: center;\"><em></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw7-n29rb0bu5</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>3. Circuitos de arranque directo de motores</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Circuitos de arranque directo de motores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Circuitos de arranque directo de motores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw7-n29rb0bu5</odePageId>
+      <odeBlockId>block-1779299750074-6t6qys4yh</odeBlockId>
+      <blockName>3. Circuitos
+de arranque directo de motores</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw7-n29rb0bu5</odePageId>
+          <odeBlockId>block-1779299750074-6t6qys4yh</odeBlockId>
+          <odeIdeviceId>idevice-1779299750073-a163cc3i4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El arranque directo de un motor es el método de arranque más sencillo y de bajo coste, a través del cual se suministra corriente a los devanados del estátor del motor de manera directa. En esta situación el motor puede llegar a demandar 10 veces su intensidad nominal. Sin embargo, presenta un elevado par de arranque que podría ser necesaria para vencer el Par resiente de la carga conectada al motor. Algunos casos de arranque directos serían por ejemplo motores de pequeña potencia, máquinas sin necesidad de un aumento progresivo de velocidad con reductores que impidan el arranque brusco, así como situaciones en la que fuera necesario un elevado par de arranque</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299750073-a163cc3i4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El arranque directo de un motor es el método de arranque más sencillo y de bajo coste, a través del cual se suministra corriente a los devanados del estátor del motor de manera directa. En esta situación el motor puede llegar a demandar 10 veces su intensidad nominal. Sin embargo, presenta un elevado par de arranque que podría ser necesaria para vencer el Par resiente de la carga conectada al motor. Algunos casos de arranque directos serían por ejemplo motores de pequeña potencia, máquinas sin necesidad de un aumento progresivo de velocidad con reductores que impidan el arranque brusco, así como situaciones en la que fuera necesario un elevado par de arranque</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw7-n29rb0bu5</odePageId>
+      <odeBlockId>block-1779300935460-ev3ouhx83</odeBlockId>
+      <blockName>3.1.  Esquemas eléctricos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw7-n29rb0bu5</odePageId>
+          <odeBlockId>block-1779300935460-ev3ouhx83</odeBlockId>
+          <odeIdeviceId>idevice-1779300935459-ygesk049l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Exponemos varios esquemas para el arranque directo:</p>
+<ul>
+<li>Arranque manual mediante interruptor rotativo.</li>
+</ul>
+<p>Correspondería al esquema de fuerza 1 de la figura 2 En Aquí realmente no existe un automatismo, sino que será el operario, quién a voluntad propia, accione y pare el motor para la ejecución del proceso mecanizado. Este tipo de instalación es muy frecuente encontrarla en pequeñas máquinas herramientas, como puede ser una taladradora de banco o una esmeriladora.</p>
+<ul>
+<li>Arranque manual por impulsos.</li>
+</ul>
+<p>El circuito de mando gobierna un contactor KM mediante un pulsador. Es esta situación es necesario mantener el pulsador para controlar el motor. Es muy común en máquinas-herramientas. como por ejemplo tornos de mecanizado, donde en ciertos momentos sería imprescindible un control manual sobre la operación en una pieza. Correspondería al esquema de fuerza 2 de la figura 2- mando por impulsos.</p>
+<ul>
+<li> Arranque directo con pulsadores marcha-paro</li>
+</ul>
+<p>Se trata de un circuito fundamental en automatismos eléctricos. Gracias al circuito de realimentación (Contacto NA en paralelo al pulsador de marcha) El motor sigue funcionando una vez se da la orden con el pulsador de marcha. Para detenerlo será necesario interrumpir la alimentación de la bobina mediante el pulsador de paro NC. Ver figura 2- mando con realimentación</p>
+<p>Para activar KM desde varios puntos, se conectarán los sensores en paralelo al contacto de realimentación. Por el contrario para desactivarlo desde varios sensores, se conectan en serie con la parada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779300935459-ygesk049l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Exponemos varios esquemas para el arranque directo:</p>\n<ul>\n<li>Arranque manual mediante interruptor rotativo.</li>\n</ul>\n<p>Correspondería al esquema de fuerza 1 de la figura 2 En Aquí realmente no existe un automatismo, sino que será el operario, quién a voluntad propia, accione y pare el motor para la ejecución del proceso mecanizado. Este tipo de instalación es muy frecuente encontrarla en pequeñas máquinas herramientas, como puede ser una taladradora de banco o una esmeriladora.</p>\n<ul>\n<li>Arranque manual por impulsos.</li>\n</ul>\n<p>El circuito de mando gobierna un contactor KM mediante un pulsador. Es esta situación es necesario mantener el pulsador para controlar el motor. Es muy común en máquinas-herramientas. como por ejemplo tornos de mecanizado, donde en ciertos momentos sería imprescindible un control manual sobre la operación en una pieza. Correspondería al esquema de fuerza 2 de la figura 2- mando por impulsos.</p>\n<ul>\n<li> Arranque directo con pulsadores marcha-paro</li>\n</ul>\n<p>Se trata de un circuito fundamental en automatismos eléctricos. Gracias al circuito de realimentación (Contacto NA en paralelo al pulsador de marcha) El motor sigue funcionando una vez se da la orden con el pulsador de marcha. Para detenerlo será necesario interrumpir la alimentación de la bobina mediante el pulsador de paro NC. Ver figura 2- mando con realimentación</p>\n<p>Para activar KM desde varios puntos, se conectarán los sensores en paralelo al contacto de realimentación. Por el contrario para desactivarlo desde varios sensores, se conectan en serie con la parada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mpo9xvw7-n29rb0bu5</odePageId>
+          <odeBlockId>block-1779300935460-ev3ouhx83</odeBlockId>
+          <odeIdeviceId>idevice-1779301095082-vyfsv770v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/2 fuerza directo.bmp" width="1460" height="732" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Fig. 2. Circuitos de arranque directo de motores</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779301095082-vyfsv770v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/2 fuerza directo.bmp\" width=\"1460\" height=\"732\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 2. Circuitos de arranque directo de motores</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>4. Inversión del sentido de giro de motores trifásicos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Inversión del sentido de giro de motores trifásicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Inversión del sentido de giro de motores trifásicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+      <odeBlockId>block-1779299753772-j3rhpo2h9</odeBlockId>
+      <blockName>4. Inversión del sentido de giro de motores trifásicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+          <odeBlockId>block-1779299753772-j3rhpo2h9</odeBlockId>
+          <odeIdeviceId>idevice-1779299753771-yeziokow6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es bastante común en diferentes aplicaciones y procesos basados en motores, tanto trifásicos como monofásicos que resulte necesario invertir el sentido de giro de los motores del proceso, como por ejemplo puertas eléctricas, cintas transportadoras con desplazamiento a derecha e izquierda, equipos mezcladores de fluidos de varios movimientos etc…</p>
+<p>La inversión de giro en este tipo de motores se realizará permutando dos de las fases de alimentación. A continuación, vemos los métodos para realizar dicha inversión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299753771-yeziokow6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es bastante común en diferentes aplicaciones y procesos basados en motores, tanto trifásicos como monofásicos que resulte necesario invertir el sentido de giro de los motores del proceso, como por ejemplo puertas eléctricas, cintas transportadoras con desplazamiento a derecha e izquierda, equipos mezcladores de fluidos de varios movimientos etc…</p>\n<p>La inversión de giro en este tipo de motores se realizará permutando dos de las fases de alimentación. A continuación, vemos los métodos para realizar dicha inversión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+      <odeBlockId>block-1779301149061-llm7dxni8</odeBlockId>
+      <blockName>4.1 Conmutador trifásico inversor de potencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+          <odeBlockId>block-1779301149061-llm7dxni8</odeBlockId>
+          <odeIdeviceId>idevice-1779301149060-la67kyl0y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estos conmutadores disponen de 3 posiciones: central (0) para motor parado, giro a izquierdas (I) y otra de giro a derechas (II). Dispone de 6 bornes de conexión, 3 para la alimentación de la red eléctrica y los otros 3 para la salida al motor.  Para llevar a cabo la inversión del sentido de giro, internamente realiza el cambio de fases.</p>
+<p><img src="{{context_path}}/content/resources/3 inversor.png" width="509" height="548" alt="" /><img src="{{context_path}}/content/resources/4 Esquema de fuerza invesión de giro.png" width="468" height="782" alt="" /></p>
+<p><em>Fig. 3. Inversión conmutador rotativo manual de levas                                         Fig 4 Esquema de fuerza inversión de giro con contactores</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779301149060-la67kyl0y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estos conmutadores disponen de 3 posiciones: central (0) para motor parado, giro a izquierdas (I) y otra de giro a derechas (II). Dispone de 6 bornes de conexión, 3 para la alimentación de la red eléctrica y los otros 3 para la salida al motor.  Para llevar a cabo la inversión del sentido de giro, internamente realiza el cambio de fases.</p>\n<p><img src=\"{{context_path}}/content/resources/3 inversor.png\" width=\"509\" height=\"548\" alt=\"\" /><img src=\"{{context_path}}/content/resources/4 Esquema de fuerza invesión de giro.png\" width=\"468\" height=\"782\" alt=\"\" /></p>\n<p><em>Fig. 3. Inversión conmutador rotativo manual de levas                                         Fig 4 Esquema de fuerza inversión de giro con contactores</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+      <odeBlockId>block-1779301294706-lw4lj3n0v</odeBlockId>
+      <blockName>4.2  Inversión del sentido de giro con
+contactores</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw8-fk1s9gn56</odePageId>
+          <odeBlockId>block-1779301294706-lw4lj3n0v</odeBlockId>
+          <odeIdeviceId>idevice-1779301294705-cuchq3w5i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este caso, en el circuito de fuerza de la <em>Figura 4</em>, uno de los contactores alimenta las fases en los bornes del motor, el otro hace lo mismo, pero permutando dos de ellas.</p>
+<p>De esta manera cuando la alimentación trifásica que llega al motor lo hace en el orden establecido por los contactores haciendo que el el motor gire en un sentido, y si lo hace por el otro contactor , girará en el sentido contrario. En ningún caso se pueden activar dos contactores a la vez, ya que produciría un cortocircuito. Esto se puede evitar básicamente:</p>
+<p>• Utilizando un conjunto de 2 contactores que disponga de enclavamiento mecánico y que evita la activación de ambos.</p>
+<p>• Diseñando el circuito de mando mediante un enclavamiento eléctrico de manera que, si un contactor está activado, el otro no pueda hacerlo y viceversa (usaremos los contactos NC del otro KM)</p>
+<p>a)      Mediante conmutador rotativo de tres posiciones <em>Figura 5</em></p>
+<p>b)     Mediante pulsadores pasando por paro <em>Figura 6</em></p>
+<p>c)      Mediante pulsadores sin pasar por paro <em>Figura 7</em></p>
+<p>Estas últimas son muy brusca y estresante para el motor, este debe estar preparado para ello y no realizarlas continuante, ya debe de dar tiempo al motor a disipar el calor por las sobrecargas.</p>
+<p><img src="{{context_path}}/content/resources/5 inversion selectores.png" width="350" height="317" alt="" /><img src="{{context_path}}/content/resources/6 inversion pulsadores por paro.png" width="350" height="344" alt="" /><img src="{{context_path}}/content/resources/7 inversion pulsadores sin paro.png" width="350" height="387" alt="" /></p>
+<p><span style="font-size: 10pt;"><em>               Fig 5 inversión giro por conmutador rotativo                       Fig 6 inversión giro pulsadores pasando por paro              Fig 7 inversión giro pulsadores sin pasar por paro</em></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779301294705-cuchq3w5i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este caso, en el circuito de fuerza de la <em>Figura 4</em>, uno de los contactores alimenta las fases en los bornes del motor, el otro hace lo mismo, pero permutando dos de ellas.</p>\n<p>De esta manera cuando la alimentación trifásica que llega al motor lo hace en el orden establecido por los contactores haciendo que el el motor gire en un sentido, y si lo hace por el otro contactor , girará en el sentido contrario. En ningún caso se pueden activar dos contactores a la vez, ya que produciría un cortocircuito. Esto se puede evitar básicamente:</p>\n<p>• Utilizando un conjunto de 2 contactores que disponga de enclavamiento mecánico y que evita la activación de ambos.</p>\n<p>• Diseñando el circuito de mando mediante un enclavamiento eléctrico de manera que, si un contactor está activado, el otro no pueda hacerlo y viceversa (usaremos los contactos NC del otro KM)</p>\n<p>a)      Mediante conmutador rotativo de tres posiciones <em>Figura 5</em></p>\n<p>b)     Mediante pulsadores pasando por paro <em>Figura 6</em></p>\n<p>c)      Mediante pulsadores sin pasar por paro <em>Figura 7</em></p>\n<p>Estas últimas son muy brusca y estresante para el motor, este debe estar preparado para ello y no realizarlas continuante, ya debe de dar tiempo al motor a disipar el calor por las sobrecargas.</p>\n<p><img src=\"{{context_path}}/content/resources/5 inversion selectores.png\" width=\"350\" height=\"317\" alt=\"\" /><img src=\"{{context_path}}/content/resources/6 inversion pulsadores por paro.png\" width=\"350\" height=\"344\" alt=\"\" /><img src=\"{{context_path}}/content/resources/7 inversion pulsadores sin paro.png\" width=\"350\" height=\"387\" alt=\"\" /></p>\n<p><span style=\"font-size: 10pt;\"><em>               Fig 5 inversión giro por conmutador rotativo                       Fig 6 inversión giro pulsadores pasando por paro              Fig 7 inversión giro pulsadores sin pasar por paro</em></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw9-comshhc8t</odePageId>
+  <odeParentPageId>page-mpo9xvw8-fk1s9gn56</odeParentPageId>
+  <pageName>Autoevaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw9-comshhc8t</odePageId>
+      <odeBlockId>block-1779301536742-j0brfs3w7</odeBlockId>
+      <blockName>Selecciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw9-comshhc8t</odePageId>
+          <odeBlockId>block-1779301536742-j0brfs3w7</odeBlockId>
+          <odeIdeviceId>idevice-1779301536741-n4w0wx4cj</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="selecciona-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1779301536741-n4w0wx4cj" data-evaluationb="false" data-evaluationid="8f164f62-adc9-4531-832c-9e7bd76f81cd"></div><div class="selecciona-instructions SLCNP-instructions"><p>Elige las respuestas correctas y haz clic en el botón para comprobarlas.</p></div><div class="selecciona-version js-hidden">undefined</div><div class="selecciona-feedback-game"></div><div class="selecciona-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FE%FB%F5%F7%B7%A0%A2%FE%F3%E1%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B7%A0%A2%EB%B7%A0%A2%FA%F3%E8%B7%A0%A2%F1%FE%FB%F1%B7%A0%A2%F7%FC%B7%A0%A2%F7%FE%B7%A0%A2%F0%FD%E6%B7%D4%A1%FC%B7%A0%A2%E2%F3%E0%F3%B7%A0%A2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F5%F7%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%EB%B2%FA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F0%FD%E6a%FC%B2%E2%F3%E0%F3%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E1%F7%FE%F7%F1%E6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A1%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%DE%F3%B2%FB%FC%E4%F7%E0%E1%FBa%FC%B2%F6%F7%B2%F5%FB%E0%FD%B2%F6%F7%B2%E7%FC%B2%FF%FD%E6%FD%E0%B2%E1%FB%FC%B2%E2%F3%E1%F3%E0%B2%E2%FD%E0%B2%E2%F3%E0%FD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D7%E1%B2%F7%FE%B2%FF%F7%F8%FD%E0%B2%E1%FB%E1%E6%F7%FF%F3%B2%E2%F3%E0%F3%B2%FB%FC%E4%F7%E0%E6%FB%E0%B2%F7%FE%B2%F5%FB%E0%FD%B2%E2%FD%E0%B2%FE%F3%B2%F1%FD%FF%FD%F6%FB%F6%F3%F6%B2%F6%F7%B2%FC%FD%B2%FC%F7%F1%F7%E1%FB%E6%F3%E0%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%E7%FC%B2%E2%F3%E0%FD%B2%E2%E0%F7%E4%FB%FD%B0%BE%B0%C1%FD%FE%FD%B2%E1%F7%B2%F6%F7%F0%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%FC%B2%FF%FD%E6%FD%E0%F7%E1%B2%E2%E0%F7%E2%F3%E0%F3%F6%FD%E1%B2%E2%F3%E0%F3%B2%F7%FE%FE%FD%BE%B2%E2%E0%FB%FC%F1%FB%E2%F3%FE%FF%F7%FC%E6%F7%B2%E2%FD%E0%B2%FE%F3%E1%B2%E1%FD%F0%E0%F7%F1%F3%E0%F5%F3%E1%B0%BE%B0%D7%E1%B2%F7%FE%B2%E0%F7%F1%FD%FF%F7%FC%F6%F3%F6%FD%B2%F3%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%E1%FB%F7%FF%E2%E0%F7%B2%EB%B2%F1%E7%F3%FC%F6%FD%B2%FC%FD%B2%E1%F7%B2%FC%F7%F1%F7%E1%FB%E6%F7%B2%E3%E7%F7%B2%E2%F3%E0%F7%B2%E2%E0%F7%E4%FB%F3%FF%F7%FC%E6%F7%B2%FE%F3%B2%FFs%E3%E7%FB%FC%F3%B0%BE%B0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%FD%E0%F6%F7%E0%B0%A8%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A1%BC%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F3%E7%F6%FB%FD%D4%F7%F7%F6%D0%F3%F1%FA%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%AA%F4%A3%A4%A6%F4%A4%A0%BF%F3%F6%F1%AB%BF%A6%A7%A1%A3%BF%AA%A1%A0%F1%BF%AB%F7%A5%F0%F6%A5%A4%F4%AA%A3%F1%F6%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AB%A1%A2%A3%A7%A1%A4%A5%A6%A3%BF%FC%A6%E5%A2%E5%EA%A6%F1%F8%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C0%FB%F1%F9%C6%F7%EA%E6%B0%A8%B0%C6%F7%EA%E6%FD%B2%F7%FC%E0%FB%E3%E7%F7%F1%FB%F6%FD%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%DD%E0%F6%F7%E0%E1%B0%A8%B0%DD%E0%F6%F7%FC%F3%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%EF%EF</div><div class="selecciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvw9-lxd51s8oh</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>5. Arranque por disminución de tensión estatórica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Arranque por disminución de tensión estatórica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Arranque por disminución de tensión estatórica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Arranque por disminución de tensión estatórica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvw9-lxd51s8oh</odePageId>
+      <odeBlockId>block-1779299756659-oabrf55t2</odeBlockId>
+      <blockName>5.    Arranque por disminución de
+tensión estatórica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvw9-lxd51s8oh</odePageId>
+          <odeBlockId>block-1779299756659-oabrf55t2</odeBlockId>
+          <odeIdeviceId>idevice-1779299756659-s4kcfxp1o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando no es posible el arranque directo por el excesivo consumo en el arranque, hay que buscar otras posibilidades.  Los siguientes métodos se basan en disminuir la tensión de alimentación durante el arranque, con lo cual disminuye el flujo del campo magnético en devanado del estator haciendo que el motor se convierta más débil. De esta forma se reducen los valores de Par de fuerza y de intensidad. Se demuestra matemáticamente las variaciones del par y de la intensidad con respecto la tensión, en el arranque son:</p>
+<p style="text-align: center;"><span style="font-size: 14pt;">\(\frac{M_A}{M_AN}\) = \((\frac{V}{V_N})^2\)</span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;">\(\frac{I_A}{I_AN} = \frac{V}{V_N}\)</span></p>
+<p>donde:</p>
+<p><strong>V</strong>: tensión inferior a la nominal.</p>
+<p><strong>VN</strong>: tensión nominal.</p>
+<p><strong>MA</strong>: par de arranque a la tensión V.</p>
+<p><strong>MAN</strong>: par de arranque la tensión nominal.</p>
+<p><strong>IA</strong>: corriente de arranque a la tensión V.</p>
+<p><strong>IAN</strong>: corriente de arranque la tensión nominal.</p>
+<p>Las ecuaciones anteriores significan por tanto que, si disminuyo la tensión V, la corriente de arranque IA disminuirá también proporcionalmente de igual forma, y que el par de arranque MA lo haría de forma cuadrática.</p>
+<p>Es decir, si por ejemplo la tensión de alimentación se redujera a la mitad, IA disminuiría también la mitad y MA lo hará la cuarta parte.</p>
+<p> En la figura siguiente vemos como se reduce la intensidad en el arranque pero que también disminuye el Par, con lo cual estos métodos pueden no servir para vencer cargas de elevado par de arranque (les costaría arrancar).</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/8 curva Par.png" width="580" height="391" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><em>Fig. 8 Curvas de Par motor eléctrico de inducción</em></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/9 Curva intensidad.png" width="604" height="429" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><em>Fig. 9 Curvas de Intensidad motor eléctrico de inducción</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299756659-s4kcfxp1o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando no es posible el arranque directo por el excesivo consumo en el arranque, hay que buscar otras posibilidades.  Los siguientes métodos se basan en disminuir la tensión de alimentación durante el arranque, con lo cual disminuye el flujo del campo magnético en devanado del estator haciendo que el motor se convierta más débil. De esta forma se reducen los valores de Par de fuerza y de intensidad. Se demuestra matemáticamente las variaciones del par y de la intensidad con respecto la tensión, en el arranque son:</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">\\(\\frac{M_A}{M_AN}\\) = \\((\\frac{V}{V_N})^2\\)</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\">\\(\\frac{I_A}{I_AN} = \\frac{V}{V_N}\\)</span></p>\n<p>donde:</p>\n<p><strong>V</strong>: tensión inferior a la nominal.</p>\n<p><strong>VN</strong>: tensión nominal.</p>\n<p><strong>MA</strong>: par de arranque a la tensión V.</p>\n<p><strong>MAN</strong>: par de arranque la tensión nominal.</p>\n<p><strong>IA</strong>: corriente de arranque a la tensión V.</p>\n<p><strong>IAN</strong>: corriente de arranque la tensión nominal.</p>\n<p>Las ecuaciones anteriores significan por tanto que, si disminuyo la tensión V, la corriente de arranque IA disminuirá también proporcionalmente de igual forma, y que el par de arranque MA lo haría de forma cuadrática.</p>\n<p>Es decir, si por ejemplo la tensión de alimentación se redujera a la mitad, IA disminuiría también la mitad y MA lo hará la cuarta parte.</p>\n<p> En la figura siguiente vemos como se reduce la intensidad en el arranque pero que también disminuye el Par, con lo cual estos métodos pueden no servir para vencer cargas de elevado par de arranque (les costaría arrancar).</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/8 curva Par.png\" width=\"580\" height=\"391\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><em>Fig. 8 Curvas de Par motor eléctrico de inducción</em></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/9 Curva intensidad.png\" width=\"604\" height=\"429\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><em>Fig. 9 Curvas de Intensidad motor eléctrico de inducción</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwa-rjzib1tpc</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>6. Arranque estrella-triángulo ΥΔ</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Arranque estrella-triángulo ΥΔ</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Arranque estrella-triángulo ΥΔ</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwa-rjzib1tpc</odePageId>
+      <odeBlockId>block-1779299759853-49evubmo9</odeBlockId>
+      <blockName>6.      Arranque estrella-triángulo ΥΔ</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwa-rjzib1tpc</odePageId>
+          <odeBlockId>block-1779299759853-49evubmo9</odeBlockId>
+          <odeIdeviceId>idevice-1779299759853-irravbzud</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este arranque se basa en conectar el motor en configuración estrella sobre una red donde debe de conectare en triángulo. De esta manera, durante en el arranque, los devanados estatóricos están a una tensión √3 veces inferior a la nominal. Ejemplo: Supongamos que tenemos un motor de 230/400V y una red de 230 (V). El motor debe sobre esta red, conectarse en triángulo y sus devanados soportar 230 V. Fíjate en la <em>Figura 10</em> donde podemos ver que su corriente de arranque es 9 A, si se arrancará de forma directa en triángulo sobre 230 V. Pero si lo conectamos antes en estrella en la red de 230 V y procedemos al arranque, la corriente sería mucho menor, sacrificando para ello Par de arranque.</p>
+<p><img src="{{context_path}}/content/resources/10 Comparación conexión.jpg" width="1149" height="469" alt="" /></p>
+<p style="text-align: center;"><em>Fig. 10. Comparación conexión ΥΔ</em></p>
+<p>Según la <em>Figura 10</em> en conexión estrella sobre una red de 230 V cada devanado soporta 127 V, con lo cual el estator genera un campo giratorio de menor inducción, el motor será más débil y la curva de par presenta valores más bajos a la misma velocidad. Se puede demostrar que el Par e IN de arranque se reduce 1/3.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/11 Curvas Parvelocidad y CorrienteVelocidad del arranque.jpg" width="1852" height="646" alt="" /></p>
+<p style="text-align: center;"><em>Fig. 11 Curvas Par/velocidad y Corriente/Velocidad del arranque ΥΔ</em></p>
+<p style="text-align: left;"><br /></p>
+<ul>
+<li><strong>Ventajas del arranque ΥΔ</strong></li>
+</ul>
+<p>Se trata como veremos de un automatismo muy económico y sencillo. Además, produce una menor reducción de Par de arranque respecto otros métodos de reducción de tensión como autotransformador o mediante eliminación de resistencias estatóricas para la misma limitación de IA. Estos métodos mencionados prácticamente se encuentran obsoletos debido al bajo par de arranque, y el volumen de los equipos.</p>
+<ul>
+<li> <strong>Desventajas del arranque ΥΔ</strong></li>
+</ul>
+<p>El Par y la IN de arranque disminuyen siempre en Fórmula fracción de un tercio., sin posibilidad de regulación. Debe utilizarse solo ante cargas de bajo par de arranque. No siempre es posible ejecutarlo porque debemos disponer de una red cuya tensión coincida con la tensión nominal más baja del motor. Para un motor de 400/230V, el arranque Y-∆ debe realizarse sobre una red de 230V (obsoleta hoy en día). Necesitaríamos un motor de 400/690V.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299759853-irravbzud","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este arranque se basa en conectar el motor en configuración estrella sobre una red donde debe de conectare en triángulo. De esta manera, durante en el arranque, los devanados estatóricos están a una tensión √3 veces inferior a la nominal. Ejemplo: Supongamos que tenemos un motor de 230/400V y una red de 230 (V). El motor debe sobre esta red, conectarse en triángulo y sus devanados soportar 230 V. Fíjate en la <em>Figura 10</em> donde podemos ver que su corriente de arranque es 9 A, si se arrancará de forma directa en triángulo sobre 230 V. Pero si lo conectamos antes en estrella en la red de 230 V y procedemos al arranque, la corriente sería mucho menor, sacrificando para ello Par de arranque.</p>\n<p><img src=\"{{context_path}}/content/resources/10 Comparación conexión.jpg\" width=\"1149\" height=\"469\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 10. Comparación conexión ΥΔ</em></p>\n<p>Según la <em>Figura 10</em> en conexión estrella sobre una red de 230 V cada devanado soporta 127 V, con lo cual el estator genera un campo giratorio de menor inducción, el motor será más débil y la curva de par presenta valores más bajos a la misma velocidad. Se puede demostrar que el Par e IN de arranque se reduce 1/3.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/11 Curvas Parvelocidad y CorrienteVelocidad del arranque.jpg\" width=\"1852\" height=\"646\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 11 Curvas Par/velocidad y Corriente/Velocidad del arranque ΥΔ</em></p>\n<p style=\"text-align: left;\"><br /></p>\n<ul>\n<li><strong>Ventajas del arranque ΥΔ</strong></li>\n</ul>\n<p>Se trata como veremos de un automatismo muy económico y sencillo. Además, produce una menor reducción de Par de arranque respecto otros métodos de reducción de tensión como autotransformador o mediante eliminación de resistencias estatóricas para la misma limitación de IA. Estos métodos mencionados prácticamente se encuentran obsoletos debido al bajo par de arranque, y el volumen de los equipos.</p>\n<ul>\n<li> <strong>Desventajas del arranque ΥΔ</strong></li>\n</ul>\n<p>El Par y la IN de arranque disminuyen siempre en Fórmula fracción de un tercio., sin posibilidad de regulación. Debe utilizarse solo ante cargas de bajo par de arranque. No siempre es posible ejecutarlo porque debemos disponer de una red cuya tensión coincida con la tensión nominal más baja del motor. Para un motor de 400/230V, el arranque Y-∆ debe realizarse sobre una red de 230V (obsoleta hoy en día). Necesitaríamos un motor de 400/690V.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwa-45pu8q56e</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>7. Esquemas eléctricos arranque estrella-triángulo ΥΔ</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Esquemas eléctricos arranque estrella-triángulo ΥΔ</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Esquemas eléctricos arranque estrella-triángulo ΥΔ</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwa-45pu8q56e</odePageId>
+      <odeBlockId>block-1779299762906-n271mygd4</odeBlockId>
+      <blockName>7.      Esquemas eléctricos arranque
+estrella-triángulo ΥΔ</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwa-45pu8q56e</odePageId>
+          <odeBlockId>block-1779299762906-n271mygd4</odeBlockId>
+          <odeIdeviceId>idevice-1779299762905-50vd2ivg9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a analizar los esquemas propios de este tipo de arranque.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299762905-50vd2ivg9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a analizar los esquemas propios de este tipo de arranque.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwa-45pu8q56e</odePageId>
+      <odeBlockId>block-1779373475579-vc512fzb2</odeBlockId>
+      <blockName>7.1.  Arranque manual ΥΔ</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwa-45pu8q56e</odePageId>
+          <odeBlockId>block-1779373475579-vc512fzb2</odeBlockId>
+          <odeIdeviceId>idevice-1779373475577-14yrd3q69</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estas prácticas manuales están cada vez más en desuso, pues presentan un claro inconveniente: la conmutación de la conexión de estrella a triángulo del motor depende de la destreza del operario para calcular el tiempo que permanece con en estrella, y de no realizarse correctamente, podría dañar la máquina.</p>
+<ul>
+<li>Mediante conmutador rotativo 3 posiciones</li>
+</ul>
+<p> Se realiza a través de un interruptor conmutador de 3 posiciones en el circuito de fuerza. Únicamente se realiza en motores menores de 10 kW.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/12 estrella triangulo conmutador.png" width="1014" height="643" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Fig. 12 Esquema arranque ΥΔ mediante Conmutador rotativo 3 posiciones </em></p>
+<p style="text-align: center;"><em></em></p>
+<ul>
+<li>Mediante contactores.</li>
+</ul>
+<p>La secuencia de funcionamiento sería la siguiente: (<em>Figura 13</em>)</p>
+<p>1)      Cerrar KM1 y KM3. El motor queda en estrella (KM3 cortocircuita U2-V2-W2) y arrancando con los valores de par e intensidad del punto 1 de la <em>Figura 11</em>. A continuación, la velocidad ira aumentando y el punto de funcionamiento del motor evoluciona hacia el punto 2.</p>
+<p>2)      Transcurrido un pequeño tiempo (de 2 -5 segundos), se abre KM3 y simultáneamente se cierra KM2 (que cortocircuita U1-W2, V1-U2, W1-V2) con lo cual el motor se conecta en triángulo (salto del punto 2 al 3).</p>
+<p>3)      Finalmente, el motor evoluciona en triángulo desde el punto 3 al 4 donde el motor se estabiliza a la velocidad que corresponda en función del par resistente de la carga.</p>
+<p>La caja de conexiones del motor no tiene chapas como en la <em>Figura 10</em> puesto que los puentes los realizan los contactores anteriores.</p>
+<p>La maniobra se realiza con pulsador de doble contacto S3 (<em>Figura 13</em>). Desactivando la bobina KM3 (estrella) y activa la KM2 (triángulo). Además, ambas bobinas, se disponen de sendos contactos de enclavamiento eléctrico para evitar que los contactores de estrella y triángulo se activen a la vez.</p>
+<p><img src="{{context_path}}/content/resources/13 Esquema Estrella triángulo manual_page-0001.jpg" width="1755" height="1241" alt="" /></p>
+<p style="text-align: center;"><em>Fig. 13 Esquema arranque ΥΔ manual mediante pulsadores </em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779373475577-14yrd3q69","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estas prácticas manuales están cada vez más en desuso, pues presentan un claro inconveniente: la conmutación de la conexión de estrella a triángulo del motor depende de la destreza del operario para calcular el tiempo que permanece con en estrella, y de no realizarse correctamente, podría dañar la máquina.</p>\n<ul>\n<li>Mediante conmutador rotativo 3 posiciones</li>\n</ul>\n<p> Se realiza a través de un interruptor conmutador de 3 posiciones en el circuito de fuerza. Únicamente se realiza en motores menores de 10 kW.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/12 estrella triangulo conmutador.png\" width=\"1014\" height=\"643\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 12 Esquema arranque ΥΔ mediante Conmutador rotativo 3 posiciones </em></p>\n<p style=\"text-align: center;\"><em></em></p>\n<ul>\n<li>Mediante contactores.</li>\n</ul>\n<p>La secuencia de funcionamiento sería la siguiente: (<em>Figura 13</em>)</p>\n<p>1)      Cerrar KM1 y KM3. El motor queda en estrella (KM3 cortocircuita U2-V2-W2) y arrancando con los valores de par e intensidad del punto 1 de la <em>Figura 11</em>. A continuación, la velocidad ira aumentando y el punto de funcionamiento del motor evoluciona hacia el punto 2.</p>\n<p>2)      Transcurrido un pequeño tiempo (de 2 -5 segundos), se abre KM3 y simultáneamente se cierra KM2 (que cortocircuita U1-W2, V1-U2, W1-V2) con lo cual el motor se conecta en triángulo (salto del punto 2 al 3).</p>\n<p>3)      Finalmente, el motor evoluciona en triángulo desde el punto 3 al 4 donde el motor se estabiliza a la velocidad que corresponda en función del par resistente de la carga.</p>\n<p>La caja de conexiones del motor no tiene chapas como en la <em>Figura 10</em> puesto que los puentes los realizan los contactores anteriores.</p>\n<p>La maniobra se realiza con pulsador de doble contacto S3 (<em>Figura 13</em>). Desactivando la bobina KM3 (estrella) y activa la KM2 (triángulo). Además, ambas bobinas, se disponen de sendos contactos de enclavamiento eléctrico para evitar que los contactores de estrella y triángulo se activen a la vez.</p>\n<p><img src=\"{{context_path}}/content/resources/13 Esquema Estrella triángulo manual_page-0001.jpg\" width=\"1755\" height=\"1241\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 13 Esquema arranque ΥΔ manual mediante pulsadores </em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwb-zw3kpzvjx</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>8. Arranque ΥΔ mediante contactores de forma temporizada</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Arranque ΥΔ mediante contactores de forma temporizada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Arranque ΥΔ mediante contactores. De forma temporizada.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Arranque ΥΔ mediante contactores de forma temporizada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwb-zw3kpzvjx</odePageId>
+      <odeBlockId>block-1779299766248-x0efhj7wu</odeBlockId>
+      <blockName>8.  Arranque
+ΥΔ mediante contactores de forma temporizada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwb-zw3kpzvjx</odePageId>
+          <odeBlockId>block-1779299766248-x0efhj7wu</odeBlockId>
+          <odeIdeviceId>idevice-1779299766248-y67x1yz2g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Sustituyendo la función de conmutación del pulsador S3 por los contactos NA y NC de un temporizador KT1, el paso ΥΔ se realiza de manera automática (<em>Figura 14</em>).</p>
+<p>De igual manera que en arranque anterior manual, la puesta en marcha se realiza mediante el pulsador S2 y la parada con S1. Cuando se activa el contactor principal KM1 también lo hace el temporizador KT1, una vez transcurrido el tiempo ajustado, se produce la conmutación automática de KM3 con respecto KM2.</p>
+<p>El contacto NC 21-22 de KM2 permite desactivar el temporizador una vez que ha cumplido su misión. </p>
+<p><img src="{{context_path}}/content/resources/14 estrella triangulo mando temporizado.png" width="830" height="842" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Fig. 14 Esquema arranque ΥΔ temporizado mediante pulsadores</em></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299766248-y67x1yz2g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Sustituyendo la función de conmutación del pulsador S3 por los contactos NA y NC de un temporizador KT1, el paso ΥΔ se realiza de manera automática (<em>Figura 14</em>).</p>\n<p>De igual manera que en arranque anterior manual, la puesta en marcha se realiza mediante el pulsador S2 y la parada con S1. Cuando se activa el contactor principal KM1 también lo hace el temporizador KT1, una vez transcurrido el tiempo ajustado, se produce la conmutación automática de KM3 con respecto KM2.</p>\n<p>El contacto NC 21-22 de KM2 permite desactivar el temporizador una vez que ha cumplido su misión. </p>\n<p><img src=\"{{context_path}}/content/resources/14 estrella triangulo mando temporizado.png\" width=\"830\" height=\"842\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 14 Esquema arranque ΥΔ temporizado mediante pulsadores</em></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwb-zw3kpzvjx</odePageId>
+      <odeBlockId>block-1779374235877-67rjg8n09</odeBlockId>
+      <blockName>8.1.  Arranque ΥΔ con inversión de
+giro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwb-zw3kpzvjx</odePageId>
+          <odeBlockId>block-1779374235877-67rjg8n09</odeBlockId>
+          <odeIdeviceId>idevice-1779374235875-0e9c9ttn4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El circuito de fuerza de la figura 15.  muestra como KM1 y KM2 hacen la inversión de fases para el cambio de sentido de giro, y KM3 y KM4, las conexiones para arranque ΥΔ respectivamente.</p>
+<p> Para ello, el arranque en un sentido giro se hará en 2 tiempos. </p>
+<p>1)       Conectando uno solo de los contactores del inversor (KM1 con S2 o KM2 con S3) en estrella con KM4  </p>
+<p>2)      A continuación, se conmuta KM4 y KM3 para pasar a la conexión triángulo.</p>
+<p> Para invertir el sentido de giro, es necesario parar el motor (con S1) y realizar nuevamente la conmutación.</p>
+<p> El resto funcionamiento es idéntico al visto anteriormente.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/15 Estrella triángulo inversion_page-0001.jpg" width="1755" height="1241" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><em>Fig. 15 Esquema Arranque ΥΔ con inversión de giro</em></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374235875-0e9c9ttn4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El circuito de fuerza de la figura 15.  muestra como KM1 y KM2 hacen la inversión de fases para el cambio de sentido de giro, y KM3 y KM4, las conexiones para arranque ΥΔ respectivamente.</p>\n<p> Para ello, el arranque en un sentido giro se hará en 2 tiempos. </p>\n<p>1)       Conectando uno solo de los contactores del inversor (KM1 con S2 o KM2 con S3) en estrella con KM4  </p>\n<p>2)      A continuación, se conmuta KM4 y KM3 para pasar a la conexión triángulo.</p>\n<p> Para invertir el sentido de giro, es necesario parar el motor (con S1) y realizar nuevamente la conmutación.</p>\n<p> El resto funcionamiento es idéntico al visto anteriormente.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/15 Estrella triángulo inversion_page-0001.jpg\" width=\"1755\" height=\"1241\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><em>Fig. 15 Esquema Arranque ΥΔ con inversión de giro</em></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwc-9518oo5gz</odePageId>
+  <odeParentPageId>page-mpo9xvwb-zw3kpzvjx</odeParentPageId>
+  <pageName>Autoevaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwc-9518oo5gz</odePageId>
+      <odeBlockId>block-1779374428599-gsuif3ly9</odeBlockId>
+      <blockName>Selecciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwc-9518oo5gz</odePageId>
+          <odeBlockId>block-1779374428599-gsuif3ly9</odeBlockId>
+          <odeIdeviceId>idevice-1779374428598-qq39bg3ry</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="selecciona-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1779374428598-qq39bg3ry" data-evaluationb="false" data-evaluationid="af797196-77ca-4e96-b9ba-853195458fe1"></div><div class="selecciona-instructions SLCNP-instructions"><p>Elige las respuestas correctas y haz clic en el botón para comprobarlas.</p></div><div class="selecciona-version js-hidden">undefined</div><div class="selecciona-feedback-game"></div><div class="selecciona-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FE%FB%F5%F7%B7%A0%A2%FE%F3%E1%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B7%A0%A2%EB%B7%A0%A2%FA%F3%E8%B7%A0%A2%F1%FE%FB%F1%B7%A0%A2%F7%FC%B7%A0%A2%F7%FE%B7%A0%A2%F0%FD%E6%B7%D4%A1%FC%B7%A0%A2%E2%F3%E0%F3%B7%A0%A2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F5%F7%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%EB%B2%FA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F0%FD%E6a%FC%B2%E2%F3%E0%F3%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E1%F7%FE%F7%F1%E6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A1%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C1%FB%B2%E7%FC%B2%FF%7B%E6%FD%F6%FD%B2%F6%F7%B2%F3%E0%E0%F3%FC%E3%E7%F7%B2%E2%FD%E0%B2%F6%FB%E1%FF%FB%FC%E7%F1%FBa%FC%B2%F6%F7%B2%E6%F7%FC%E1%FBa%FC%B2%FE%F3%B2%E0%F7%F6%E7%F1%F7%B2%F7%FC%B2%E7%FC%B2%A5%A7%B2%B7%BE%B2-%D1%E7s%FC%E6%FD%B2%F6%FB%E1%FF%FB%FC%E7%EB%F7%FC%B2%F7%FC%B2%E2%FD%E0%F1%F7%FC%E6%F3%F8%F7%B2%F7%FE%B2%E2%F3%E0%B2%EB%B2%FE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B2%F6%F7%B2%F3%E0%E0%F3%FC%E3%E7%F7%B2%E0%F7%E1%E2%F7%F1%E6%FD%B2%F3%B2%E1%E7%E1%B2%E4%F3%FE%FD%E0%F7%E1%B2%F3%B2%E6%F7%FC%E1%FBa%FC%B2%FC%FD%FF%FB%FC%F3%FE%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C2%F3%E0%B2%u2100%B2%A5%A7%B2%B7%A9%B2%DB%FC%E6%F7%FC%E1%FB%F6%F3%F6%B2%u2100%B2%A5%A7%B2%B7%BC%B0%BE%B0%C2%F3%E0%B2%u2100%B2%A7%A4%B2%B7%A9%B2%DB%FC%E6%F7%FC%E1%FB%F6%F3%F6%B2%u2100%B2%A5%A7%B2%B7%BC%B0%BE%B0%C2%F3%E0%B2%u2100%B2%A5%A7%B2%B7%A9%B2%DB%FC%E6%F7%FC%E1%FB%F6%F3%F6%B2%u2100%B2%A7%A4%B2%B7%BC%B0%BE%B0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%FD%E0%F6%F7%E0%B0%A8%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A1%BC%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F3%E7%F6%FB%FD%D4%F7%F7%F6%D0%F3%F1%FA%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F3%F4%A5%AB%A5%A3%AB%A4%BF%A5%A5%F1%F3%BF%A6%F7%AB%A4%BF%F0%AB%F0%F3%BF%AA%A7%A1%A3%AB%A7%A6%A7%AA%F4%F7%A3%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AB%A1%A5%A6%A6%A0%AA%A7%AB%AA%BF%E3%E3%A1%AB%F0%F5%A1%E0%EB%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D7%FC%FA%FD%E0%F3%F0%E7%F7%FC%F3%B3%B23%C0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B3%B2%B2%E6%F3%FE%B2%EB%B2%F1%FD%FF%FD%B2%FA%F7%FF%FD%E1%B2%E4%FB%E1%E6%FD%B2%F7%FC%B2%F7%FE%B2%F3%E2%F3%E0%E6%F3%F6%FD%B2%A7%BE%B2%FE%F3%B2%E0%F7%FE%F3%F1%FBa%FC%B2%F6%F7%B2%E6%F7%FC%E1%FBa%FC%B2%C4%BE%B2%F7%E1%B2%F6%FB%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%E2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%FE%B2%F3%B2%FE%F3%B2%F1%FD%E0%E0%FB%F7%FC%E6%F7%B2%F6%F7%B2%F3%E0%E0%F3%FC%E3%E7%F7%B2%EB%B2%F7%FE%B2%E2%F3%E0%B2%F6%F7%B2%F3%E0%E0%F3%FC%E3%E7%F7%B2%FE%FD%B2%FA%F3%E0%7F%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B2%F1%E7%F3%F6%E0s%E6%FB%F1%F3%BC%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DC%F7%F5%F3%E6%FB%E4%FD%A8%B2%D7%E1%E6%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F7%E1%B2%FB%FC%F1%FD%E0%E0%F7%F1%E6%F3%BE%B2%E0%F7%E4%FB%E1%F3%B2%F7%FE%B2%F3%E2%F3%E0%E6%F3%F6%FD%B2%A7%B2%F6%F7%B2%F7%E1%E6%F7%B2%E6%F7%FF%F3%B2%E2%F3%E0%F3%B2%E2%FD%F6%F7%E0%B2%F1%FD%FC%E6%F7%E1%E6%F3%E0%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%F3%B2%F7%E1%E6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C0%FB%F1%F9%C6%F7%EA%E6%B0%A8%B0%C6%F7%EA%E6%FD%B2%F7%FC%E0%FB%E3%E7%F7%F1%FB%F6%FD%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%DD%E0%F6%F7%E0%E1%B0%A8%B0%DD%E0%F6%F7%FC%F3%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%EF%EF</div><div class="selecciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>Caso Práctico 1: Diseño del automatismo para controlar un puente grúa</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso Práctico 1: Diseño del automatismo para controlar un puente grúa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>13. Pruebas funcionales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Caso Práctico 1: Diseño del automatismo para controlar un puente grúa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+      <odeBlockId>block-1779299786243-umtvy6rwi</odeBlockId>
+      <blockName>Planteamiento:</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+          <odeBlockId>block-1779299786243-umtvy6rwi</odeBlockId>
+          <odeIdeviceId>idevice-1779299786242-etr7x04be</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el taller mecánico de Gonver, disponen de un puente grúa para desplazar cargas pesadas. El motor trifásico mueve la grúa sobre un raíl horizontal en dos sentidos (a izquierdas y a derechas). Para detectar los extremos del recorrido, se han instalado un detector de proximidad inductivo tipo PNP alimentado a 24Vcc en cada uno de los finales.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/22 Caso práctico 1 Puente grúa.jpg" width="391" height="475" alt="" /></p>
+<p style="text-align: center;"><em>Fig.22 Puente grúa </em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299786242-etr7x04be","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el taller mecánico de Gonver, disponen de un puente grúa para desplazar cargas pesadas. El motor trifásico mueve la grúa sobre un raíl horizontal en dos sentidos (a izquierdas y a derechas). Para detectar los extremos del recorrido, se han instalado un detector de proximidad inductivo tipo PNP alimentado a 24Vcc en cada uno de los finales.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/22 Caso práctico 1 Puente grúa.jpg\" width=\"391\" height=\"475\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><em>Fig.22 Puente grúa </em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+      <odeBlockId>block-1779374766375-w0cg08asj</odeBlockId>
+      <blockName>Nudo:</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+          <odeBlockId>block-1779374766375-w0cg08asj</odeBlockId>
+          <odeIdeviceId>idevice-1779374766373-zty0b11w7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El control del automatismo se hace por pulsadores, no siendo necesario pasar por paro para realizar la inversión del sentido de giro. El motor debe protegerse con un relé térmico con señalización de disparo. También se debe indicar cuándo la máquina está en marcha y la parada del motor cada vez que el motor llega a los límites del recorrido, se acciona el sensor correspondiente, parando el motor. En dicha situación, el motor únicamente podrá ponerse en marcha sentido contrario.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374766373-zty0b11w7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El control del automatismo se hace por pulsadores, no siendo necesario pasar por paro para realizar la inversión del sentido de giro. El motor debe protegerse con un relé térmico con señalización de disparo. También se debe indicar cuándo la máquina está en marcha y la parada del motor cada vez que el motor llega a los límites del recorrido, se acciona el sensor correspondiente, parando el motor. En dicha situación, el motor únicamente podrá ponerse en marcha sentido contrario.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+      <odeBlockId>block-1779374818674-0l6myzdew</odeBlockId>
+      <blockName>Desenlace:</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwc-lr6zn9d6u</odePageId>
+          <odeBlockId>block-1779374818674-0l6myzdew</odeBlockId>
+          <odeIdeviceId>idevice-1779374818671-drxtd9vbe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La solución pasaría por un circuito de fuerza con inversión de giro mediante contactores controlado por un esquema de mando mediante pulsadores sin pasar por paro tal como vimos en el punto 4 del tema. Se ha añadido dos relés KA1 y KA2 encargados de detener el avance del motor en cada extremo al ser activados por los detectores de proximidad que al no ser a 230Vca, deberán estar alimentados por una fuente de alimentación a 24Vcc.</p>
+<p style="text-align: center;"> <img src="{{context_path}}/content/resources/23 Caso práctico 1 Puente grúa SOL.png" width="1565" height="791" alt="" /></p>
+<p style="text-align: center;"><em>Fig. 23. Solución caso práctico 1</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374818671-drxtd9vbe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La solución pasaría por un circuito de fuerza con inversión de giro mediante contactores controlado por un esquema de mando mediante pulsadores sin pasar por paro tal como vimos en el punto 4 del tema. Se ha añadido dos relés KA1 y KA2 encargados de detener el avance del motor en cada extremo al ser activados por los detectores de proximidad que al no ser a 230Vca, deberán estar alimentados por una fuente de alimentación a 24Vcc.</p>\n<p style=\"text-align: center;\"> <img src=\"{{context_path}}/content/resources/23 Caso práctico 1 Puente grúa SOL.png\" width=\"1565\" height=\"791\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 23. Solución caso práctico 1</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>Caso Práctico 2: Diseño de automatismo electroneumático mediante el método
+“paso a paso de una máquina estampadora de piezas</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso Práctico 2: Diseño de automatismo electroneumático mediante el método
+“paso a paso de una máquina estampadora de piezas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caso Práctico 2: Diseño de automatismo electroneumático mediante el método
+“paso a paso de una máquina estampadora de piezas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Caso Práctico 2: Diseño de automatismo electroneumático mediante el método
+“paso a paso de una máquina estampadora de piezas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+      <odeBlockId>block-1779374872907-5nbaohdfj</odeBlockId>
+      <blockName>Planteamiento:</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+          <odeBlockId>block-1779374872907-5nbaohdfj</odeBlockId>
+          <odeIdeviceId>idevice-1779374872907-vn77i1lhc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se plantea automatizar una máquina estampadora de 3 cilindros para marcar piezas. La alimentación de las piezas se realiza mediante un cartucho de caída, siendo sujetadas mediante el cilindro A, marcadas mediante el cilindro B y expulsadas mediante el cilindro C. (Los tres cilindros de doble efecto).</p>
+<p><img src="{{context_path}}/content/resources/24 Estampadora caso Práctico 2 - copia.bmp.png" width="399" height="394" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Fig. 24. Estampadora caso Práctico 2</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374872907-vn77i1lhc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se plantea automatizar una máquina estampadora de 3 cilindros para marcar piezas. La alimentación de las piezas se realiza mediante un cartucho de caída, siendo sujetadas mediante el cilindro A, marcadas mediante el cilindro B y expulsadas mediante el cilindro C. (Los tres cilindros de doble efecto).</p>\n<p><img src=\"{{context_path}}/content/resources/24 Estampadora caso Práctico 2 - copia.bmp.png\" width=\"399\" height=\"394\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 24. Estampadora caso Práctico 2</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+      <odeBlockId>block-1779374872907-cdh9w7ho7</odeBlockId>
+      <blockName>Nudo:</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+          <odeBlockId>block-1779374872907-cdh9w7ho7</odeBlockId>
+          <odeIdeviceId>idevice-1779374872907-q1g3xwoal</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El desarrollo de las fases ha de realizarse automáticamente con la posibilidad de que se desarrolle a ciclo único o a ciclo continuo. </p>
+<p>Un sensor inductivo a 2 hilos detectará la existencia de piezas en el depósito. Cuando no hay piezas en el depósito, no podrá ponerse en marcha la máquina.  </p>
+<p>La secuencia por tanto será la siguiente:</p>
+<p> Sale cilindro A --> Sale cilindro B --> Regresa cilindro B --> Regresa cilindro A --> Sale cilindro C --> Regresa cilindro C</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374872907-q1g3xwoal","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El desarrollo de las fases ha de realizarse automáticamente con la posibilidad de que se desarrolle a ciclo único o a ciclo continuo. </p>\n<p>Un sensor inductivo a 2 hilos detectará la existencia de piezas en el depósito. Cuando no hay piezas en el depósito, no podrá ponerse en marcha la máquina.  </p>\n<p>La secuencia por tanto será la siguiente:</p>\n<p> Sale cilindro A --> Sale cilindro B --> Regresa cilindro B --> Regresa cilindro A --> Sale cilindro C --> Regresa cilindro C</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+      <odeBlockId>block-1779374872907-wb4v9pr1y</odeBlockId>
+      <blockName>Desenlace:</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwd-tq50dfdle</odePageId>
+          <odeBlockId>block-1779374872907-wb4v9pr1y</odeBlockId>
+          <odeIdeviceId>idevice-1779374872907-7gbsfey3m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La secuencia queda resumida de la siguiente manera para facilitar su identificación en el esquema: A +, B +, B -, A –, C +, C – </p>
+<p>De manera que ‘+’ representa la salida del cilindro y ‘-‘ el regreso.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/25 Caso práctico 2_page-0001.jpg" width="1755" height="1241" alt="" /></p>
+<p style="text-align: center;"><em>Fig. 25. Solución caso práctico 2</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779374872907-7gbsfey3m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La secuencia queda resumida de la siguiente manera para facilitar su identificación en el esquema: A +, B +, B -, A –, C +, C – </p>\n<p>De manera que ‘+’ representa la salida del cilindro y ‘-‘ el regreso.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/25 Caso práctico 2_page-0001.jpg\" width=\"1755\" height=\"1241\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><em>Fig. 25. Solución caso práctico 2</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpo9xvwf-ko6la20qx</odePageId>
+  <odeParentPageId>page-mpo9xvw0-rx8q6mell</odeParentPageId>
+  <pageName>Bibliografía</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bibliografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>14. Resumen y resolución del caso práctico de la unidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bibliografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpo9xvwf-ko6la20qx</odePageId>
+      <odeBlockId>block-1779299790207-l84yd6a6w</odeBlockId>
+      <blockName>Bibliografía</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpo9xvwf-ko6la20qx</odePageId>
+          <odeBlockId>block-1779299790207-l84yd6a6w</odeBlockId>
+          <odeIdeviceId>idevice-1779299790206-vhbq16bbq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em>Técnicas y procesos en instalaciones domóticas y automáticas</em>. González Rodríguez, Francisco de Paula. ISBN 13: 978-84-19872-56-2</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299790206-vhbq16bbq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em>Técnicas y procesos en instalaciones domóticas y automáticas</em>. González Rodríguez, Francisco de Paula. ISBN 13: 978-84-19872-56-2</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
